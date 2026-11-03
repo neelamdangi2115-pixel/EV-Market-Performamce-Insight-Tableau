@@ -1,31 +1,66 @@
-# Tableau Insights – Dashboard & Story Website
+# EV Market Performance – Insight & Tableau Analytics
 
-A responsive static website that brings a Tableau Dashboard and Tableau Story together in one place using embedded Tableau Public views.
+An EV Market Performance analytics project focused on exploring electric vehicle market data through SQL analysis and interactive Tableau visualizations.
 
-## Tableau visualizations
-- **Dashboard:** https://public.tableau.com/views/Dashboard1_17937098825500/Dashboard1
-- **Story:** https://public.tableau.com/views/Story1_17937101381410/Story1
+## 🌐 Live Website
 
-## Features
-- Embedded interactive Tableau Dashboard
-- Embedded Tableau Story
-- Responsive layout for desktop and mobile
-- Direct links to open each visualization on Tableau Public
+**[Visit EV Market Performance Website](https://ev-market-performamce-insight-tableau-1.onrender.com/)**
 
-## Built with
-- HTML5
-- CSS3
-- Tableau Public embedded views
+## 📊 Project Overview
 
-## Run locally
-Open `index.html` in a browser.
+This project provides a platform to explore EV market performance insights through data analysis and visualization.
 
-## Deploy on Render
-Create a **Static Site** and connect this GitHub repository:
-- Build Command: leave blank
-- Publish Directory: `.`
+It brings together:
+- Electric vehicle market dataset
+- SQL-based data analysis
+- Tableau Dashboard
+- Tableau Story
+- Interactive data visualization
 
-## Attribution
-Original Tableau visualizations: **Chaitanya Swaroop Vishwakarma**.
+## ✨ Key Features
 
-This website is a separate reference interface for accessing the original Tableau visualizations. It does not claim authorship of the underlying dashboards, story, or data.
+- EV market data exploration
+- SQL queries for data analysis
+- Interactive Tableau visualizations
+- Dashboard-based presentation of insights
+- Story-based data exploration
+- Web-based access to project content
+
+## 🛠️ Technologies Used
+
+- **SQL** – Data querying and analysis
+- **Tableau Public** – Data visualization
+- **CSV** – Dataset storage
+- **HTML & CSS** – Website structure and styling
+- **GitHub** – Version control and project hosting
+- **Render** – Website deployment
+
+## 📁 Repository Structure
+
+```text
+EV-Market-Performamce-Insight-Tableau/
+│
+├── README.md
+├── ev_market_analysis.sql
+├── ev_market_performance_dataset.csv
+├── index.html
+└── requirements.txt
+```
+
+## 🚀 Deployment
+
+The project website is deployed using Render and is publicly accessible:
+
+**Live URL:** https://ev-market-performamce-insight-tableau-1.onrender.com/
+
+## 👨‍💻 Project Credits
+
+This repository contains the project resources, data analysis files and website used to present the EV Market Performance insights.
+
+## 📌 Conclusion
+
+This project demonstrates the use of data analysis and visualization techniques to explore EV market performance and present findings through an accessible web interface.
+
+---
+
+**EV Market Performance | SQL • Tableau • Data Analytics**
